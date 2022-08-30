@@ -1,4 +1,4 @@
-#  MinTaek profile
+#  Min Taek
 
 ### Tech Stack
 
