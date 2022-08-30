@@ -1,4 +1,5 @@
-#  Min Taek
+<h1 align="center"> Min Taek </h1>
+--
 
 <h3 align="center"> Technology Stack </h3>
 <p align="center">
