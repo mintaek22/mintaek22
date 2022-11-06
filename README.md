@@ -16,4 +16,4 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/mintaek22)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mintaek22)](https://solved.ac/mintaek22)
