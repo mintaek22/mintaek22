@@ -7,10 +7,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 #### 💻 server
-![spring](https://img.shields.io/badge/Spring-Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
-![spring Security](https://img.shields.io/badge/Spring-Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
+![spring](https://img.shields.io/badge/SpringBoot_6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
-![ApacheTomcat](https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)
+![ApacheTomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 #### :octocat: etc..
