@@ -9,6 +9,8 @@
 #### 💻 server
 ![spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
+![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 #### :octocat: etc..
