@@ -2,7 +2,7 @@
 
 ### Technology Stack 
 ![java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 ![spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
