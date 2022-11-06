@@ -15,5 +15,4 @@
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mintaek22)](https://solved.ac/mintaek22)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
