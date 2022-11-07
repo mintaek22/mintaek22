@@ -19,4 +19,3 @@
 
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
