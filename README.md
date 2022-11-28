@@ -20,4 +20,4 @@
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
 
-[![Notion 로고](https://64.media.tumblr.com/bea1b612a91952880f1ee4da003185e9/672628548c75152f-fb/s500x750/bc88b13c9ced500bcf97a37664199b4207c30852.png)](https://www.notion.so/Spring-Boot-72546daaa5724228bf9a1ad818c5a28f)
+[![Notion 로고](https://64.media.tumblr.com/bea1b612a91952880f1ee4da003185e9/672628548c75152f-fb/s500x750/bc88b13c9ced500bcf97a37664199b4207c30852.png)](https://www.notion.so/Spring-Boot-72546daaa5724228bf9a1ad818c5a28f){: width="100" height="100"}
