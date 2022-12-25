@@ -18,5 +18,3 @@
 
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
-
-[![Notion 로고](https://www.techsoupkorea.kr/sites/default/files/styles/large/public/notion_ppv4_logo.jpg?itok=tm6E8zCF)](https://www.notion.so/Spring-Boot-72546daaa5724228bf9a1ad818c5a28f)
