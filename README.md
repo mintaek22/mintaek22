@@ -1,5 +1,5 @@
 ## Min Taek
-
+### BackEnd 개발자
 
 #### :globe_with_meridians: language
 ![java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)
