@@ -4,6 +4,7 @@
 ![java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
 
 #### 💻 server
 ![spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
@@ -14,6 +15,12 @@
 #### :octocat: etc..
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![postman](https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=Postman&logoColor=white)
+
+#### 🏃‍♂Github stats
+[![mintaek22's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintaek22)](https://github.com/mintaek22/github-readme-stats)
+
+
 
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
