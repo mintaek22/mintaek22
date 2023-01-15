@@ -1,4 +1,4 @@
-## Min Taek
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mintaek%20Github!&fontSize=90">
 
 #### :globe_with_meridians: language
 ![java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)
@@ -16,6 +16,8 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![postman](https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=Postman&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintaek22)](https://github.com/mintaek22/github-readme-stats)
 
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
