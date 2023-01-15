@@ -17,7 +17,8 @@
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![postman](https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=Postman&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintaek22)](https://github.com/mintaek22/github-readme-stats)
+#### 🏃git stats
+<img src="https://github-readme-stats.vercel.app/api?username=mintaek22&show_icons=true">
 
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=viva99)](https://solved.ac/viva99)
