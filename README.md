@@ -18,7 +18,7 @@
 ![postman](https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=Postman&logoColor=white)
 
 #### 🏃‍♂Github stats
-[![mintaek22's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintaek22)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mintaek22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
