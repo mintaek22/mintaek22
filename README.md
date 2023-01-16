@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Mintaek%20Github!&fontSize=90">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Mintaek's%20Github!&fontSize=90">
 
 #### :globe_with_meridians: language
 ![java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)
