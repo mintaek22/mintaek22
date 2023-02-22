@@ -9,8 +9,9 @@
 #### 💻 server
 ![spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
-![ApacheTomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=AmazonS3&logoColor=white)
 
 #### :octocat: etc..
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
