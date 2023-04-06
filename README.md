@@ -18,8 +18,8 @@
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![postman](https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=Postman&logoColor=white)
 
-#### projects
-![remoa](https://github.com/ProjectFRIDAY/Remoa-BE)
+#### 📝 projects
+[remoa](https://github.com/ProjectFRIDAY/Remoa-BE)
 
 #### 🏃git stats
 <img src="https://github-readme-stats.vercel.app/api?username=mintaek22&show_icons=true">
