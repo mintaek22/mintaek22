@@ -19,8 +19,6 @@
 ![postman](https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=Postman&logoColor=white)
 
 #### 📝 projects
-##### 서울 버스정보 실시간 알림앱
- - [Bus](https://github.com/mintaek22/Bus)
 ##### 공모전 작품 공유&피드백 웹 사이트 
  - [remoa](https://github.com/ProjectFRIDAY/Remoa-BE)
 
