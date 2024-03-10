@@ -4,7 +4,6 @@
 ![java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
 
 ![spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
