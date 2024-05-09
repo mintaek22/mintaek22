@@ -22,6 +22,3 @@
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 ![postman](https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=Postman&logoColor=white)
-
-## Git Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mintaek22&show_icons=true">
